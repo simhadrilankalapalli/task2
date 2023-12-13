@@ -1,0 +1,1 @@
+This is login java script file, we can write the functions here
